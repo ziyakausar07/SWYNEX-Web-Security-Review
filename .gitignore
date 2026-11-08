@@ -1,6 +1,0 @@
-# Ignore heavy vulnerable lab source code and node_modules
-juice-shop_20.3.0/
-node_modules/
-*.log
-.DS_Store
-Thumbs.db
